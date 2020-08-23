@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="org.testing.TestScripts.PostRequestTC1"/>
+      <class name="org.testing.TestScripts.GetRequestTC2"/>
+      <class name="org.testing.TestScripts.GetRequestWithQueryParameter"/>
+      <class name="org.testing.TestScripts.PutRequest_TC4"/>
+      <class name="org.testing.TestScripts.Delete_TC5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
